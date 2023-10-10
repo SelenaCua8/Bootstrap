@@ -5,3 +5,17 @@ img{
 .container{
     max-width: 900px;
 }
+
+.row{
+    margin: 100px;
+    padding: 50px;
+}
+
+.navbar-brand{
+    margin-left: 350px;
+}
+
+.container-fluid{
+    background-color: rgb(55, 139, 55);
+    padding: 30px;
+}
